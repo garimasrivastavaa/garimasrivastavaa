@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **an AR-VR project under Tata Consultancy Services**
 
-- 🌱 I’m currently learning **DSA, Metaverse, and, Full-Stack Development**
+- 🌱 I’m currently learning **Data Structures and Algorithms, Unity 3D, Blender, Unreal Engine and Microsoft Azure Digital Twins**
 
-- 👯 I’m looking to collaborate on **full-stack development projects.**
+- 👯 I’m looking to collaborate on **full-stack development projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/garimasrivastavaa](https://github.com/garimasrivastavaa)
 
