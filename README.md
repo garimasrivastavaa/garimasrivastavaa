@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Garima Srivastava (she/her)</h1>
 <h3 align="center">Exploring the Tech World - One skill at a time</h3>
 
-- 🔭 I’m currently working on **an AR-VR project.**
+- 🔭 I’m currently working on **an AR-VR project under Tata Consultancy Services**
 
 - 🌱 I’m currently learning **DSA, Metaverse, and, Full-Stack Development**
 
@@ -9,13 +9,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/garimasrivastavaa](https://github.com/garimasrivastavaa)
 
-- 💬 Ask me about **my experiences with the Tech world**
+- 💬 Ask me about: **my experiences with the Tech world**
 
-- 📫 How to reach me **workwithgarimasri@gmail.com**
+- 📫 How to reach me: **workwithgarimasri@gmail.com**
 
 - 😄 Pronouns: She/Her/Hers
 
-- ⚡ Fun fact **I'm the jack of all trades, master of some!**
+- ⚡ Fun fact: **I'm the jack of all trades, master of some!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
