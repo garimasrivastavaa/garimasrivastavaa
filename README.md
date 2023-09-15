@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Garima Srivastava (she/her)</h1>
+<h1 align="center">Hi 👋, I'm Garima Srivastava</h1>
 <h3 align="center">Exploring the Tech World - One skill at a time</h3>
+
+- 🏫 I'm a Junior pursuing Computer Science and Engineering at **VIT, Vellore**
 
 - 🔭 I’m currently working on **an AR-VR project under Tata Consultancy Services**
 
