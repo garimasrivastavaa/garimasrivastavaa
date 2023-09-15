@@ -1,7 +1,6 @@
-
-![text (1)](https://github.com/garimasrivastavaa/garimasrivastavaa/assets/94553271/9ec5199e-df26-456b-b46b-49b4e8fbbac1)
-
-<h1 align="center">Hi 👋, I'm Garima Srivastava</h1>
+<p align="center">
+  <img src="https://github.com/garimasrivastavaa/garimasrivastavaa/assets/94553271/9ec5199e-df26-456b-b46b-49b4e8fbbac1" alt="Hi 👋, I'm Garima Srivastava">
+</p>
 <h3 align="center">Exploring the Tech World - One skill at a time</h3>
 
 - 🔭 I’m currently working on **an AR-VR project.**
