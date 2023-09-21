@@ -3,7 +3,7 @@
 
 - 🏫 I'm a Junior pursuing Computer Science and Engineering at **VIT, Vellore**
 
-- 🔭 I’m currently working on **an AR-VR project under Tata Consultancy Services**
+- 🔭 I’m currently working on **a project under Tata Consultancy Services**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms, Unity 3D, Blender, Unreal Engine and Microsoft Azure Digital Twins**
 
